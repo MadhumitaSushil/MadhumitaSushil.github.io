@@ -1,9 +1,6 @@
 theme: jekyll-theme-minimal
 
 title: Madhumita Sushil
-description: Madhumita Sushil's homepage
-
-#logo: images/profile_pic.png
-
 show_twitter: "true"
 show_linkedin: "true"
+#logo: images/profile_pic.png

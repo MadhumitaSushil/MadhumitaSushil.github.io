@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # About me
 
 I am a PhD student in clinical Natural Language Processing at the Computational Linguistics and Psycholinguistics (CLiPS) Research Center, University of Antwerp, Belgium. My PhD supervisors are [Prof. Dr. Walter Daelemans](https://www.clips.uantwerpen.be/~walter/) and [Dr. Simon Šuster](http://simonsuster.github.io/). My research interest is to apply machine learning algorithms to understand natural language text. At the same time, I am also inspired to understand the behavior of trained neural networks to make them more interpretable. My current focus involves clinical text understanding using deep learning techniques. In particular, I am investigating different document representation techniques to learn semantic representations at the patient level, along with model-agnostic interpretability techniques to understand these models and representations.
