@@ -57,3 +57,7 @@ Workshop on Machine Learning for Health, NIPS 2017; ATILA 2017 <br/>
 * **Symptom Severity Identification from Psychiatric Evaluation Notes** <br/>
 ATILA 2016 <br/>
 [poster](posters/atila2017.pdf)
+
+# Thesis
+* [**Recognizing Textual Entailment**](thesis/MSc_Thesis.pdf)
+M.Sc. Thesis, February 2016
