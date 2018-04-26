@@ -62,7 +62,7 @@ Saarland University, May 2015
 
 # Thesis
 * [Recognizing Textual Entailment](thesis/MSc_Thesis.pdf) <br/>
-M.Sc. Thesis, February 2016
+M.Sc. Thesis, February 2016 <br/>
 [slides](talks/rte.pdf)
 
 # Articles
