@@ -12,16 +12,16 @@ Previously, I have worked on clinical text understanding also as a Junior Resear
 
 # Publications
 
-* (Under Review) **Patient representation learning and interpretable evaluation using clinical notes** <br/>
+* (Under Review) Patient representation learning and interpretable evaluation using clinical notes <br/>
 Madhumita Sushil, Simon Šuster, Kim Luyckx, Walter Daelemans <br/>
 Journal of Biomedical Informatics <br/>
 
-* [**Unsupervised patient representations from clinical notes with interpretable classification decisions**](https://arxiv.org/abs/1711.05198) <br/>
+* [Unsupervised patient representations from clinical notes with interpretable classification decisions](https://arxiv.org/abs/1711.05198) <br/>
 Madhumita Sushil, Simon Šuster, Kim Luyckx, Walter Daelemans <br/>
 Workshop on Machine Learning for Health, NIPS 2017 <br/>
 [bibtex](papers/bibtex/patientrep_ml4h.bib)
 
-* [**Counting trees in Random Forests: Predicting symptom severity in psychiatric intake reports**](https://www.sciencedirect.com/science/article/pii/S1532046417301302) <br/>
+* [Counting trees in Random Forests: Predicting symptom severity in psychiatric intake reports](https://www.sciencedirect.com/science/article/pii/S1532046417301302) <br/>
 Elyne Scheurwegs, Madhumita Sushil, Stéphan Tulkens, Walter Daelemans, Kim Luyckx <br/>
 Journal of Biomedical Informatics, 2017 <br/>
 [bibtex](papers/bibtex/rdoc_jbi.bib)
@@ -32,33 +32,33 @@ Journal of Biomedical Informatics, 2017 <br/>
 
 # Talks
 
-* [**Model Agnostic Interpretability Techniques**](talks/Model Agnostic Interpretability Techniques.pdf) <br/>
+* [Model Agnostic Interpretability Techniques](talks/Model Agnostic Interpretability Techniques.pdf) <br/>
 CLiPS Lab Meeting, 6th March 2018
 
-* [**Unsupervised patient representations with interpretable classification decisions**](talks/CLIN28 - Unsupervised patient representations with interpretable classification decisions.pdf) <br/>
+* [Unsupervised patient representations with interpretable classification decisions](talks/CLIN28 - Unsupervised patient representations with interpretable classification decisions.pdf) <br/>
 Computational Linguistics in the Netherlands 28 (CLIN28) <br/>
 
-* [**Clinical Data Characteristics and Processing Challenges**](talks/Clinical data characteristics and processing challenges.pdf) <br/>
+* [Clinical Data Characteristics and Processing Challenges](talks/Clinical data characteristics and processing challenges.pdf) <br/>
 Accumulate Technical Meeting, 19th December 2016
 
-* [**Psychiatric symptom severity identification, and experiences with cTakes**](talks/Accumulate-25thAug2016.pdf) <br/>
+* [Psychiatric symptom severity identification, and experiences with cTakes](talks/Accumulate-25thAug2016.pdf) <br/>
 Accumulate Technical Meeting, 25th August 2016
 
 # Posters
 
-* [**Unsupervised patient representations from clinical notes with interpretable classification decisions**](posters/ml4h2017.pdf) <br/>
+* [Unsupervised patient representations from clinical notes with interpretable classification decisions](posters/ml4h2017.pdf) <br/>
 Workshop on Machine Learning for Health, NIPS 2017; ATILA 2017
 
-* [**Symptom Severity Identification from Psychiatric Evaluation Notes**](posters/atila2017.pdf) <br/>
+* [Symptom Severity Identification from Psychiatric Evaluation Notes](posters/atila2017.pdf) <br/>
 ATILA 2016
 
-* [**Evolution of Language from an Information Theoretic Point of View**](posters/info_theory.pdf) <br/>
+* [Evolution of Language from an Information Theoretic Point of View](posters/info_theory.pdf) <br/>
 Saarland University, May 2015
 
 # Thesis
-* [**Recognizing Textual Entailment**](thesis/MSc_Thesis.pdf) <br/>
+* [Recognizing Textual Entailment](thesis/MSc_Thesis.pdf) <br/>
 M.Sc. Thesis, February 2016
 
 # Articles
-* [Automatic Question Generation for Literature Review Writing Support - a survey](articles/termPaper.pdf) <br/>
+* [Automatic Question Generation for Literature Review Writing Support - A Survey](articles/termPaper.pdf) <br/>
 Saarland University, September 2014
