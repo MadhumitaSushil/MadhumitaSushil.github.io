@@ -32,31 +32,25 @@ Journal of Biomedical Informatics, 2017 <br/>
 
 # Talks
 
-* **Model Agnostic Interpretability Techniques** <br/>
-CLiPS Lab Meeting, 6th March 2018 <br/>
-[slides](talks/Model Agnostic Interpretability Techniques.pdf)
+* [**Model Agnostic Interpretability Techniques**](talks/Model Agnostic Interpretability Techniques.pdf) <br/>
+CLiPS Lab Meeting, 6th March 2018
 
-* **Unsupervised patient representations with interpretable classification decisions** <br/>
+* [**Unsupervised patient representations with interpretable classification decisions**](talks/CLIN28 - Unsupervised patient representations with interpretable classification decisions.pdf)
 Computational Linguistics in the Netherlands 28 (CLIN28) <br/>
-[slides](talks/CLIN28 - Unsupervised patient representations with interpretable classification decisions.pdf)
 
-* **Clinical Data Characteristics and Processing Challenges** <br/>
-Accumulate Technical Meeting, 19th December 2016 <br/>
-[slides](talks/Clinical data characteristics and processing challenges.pdf)
+* [**Clinical Data Characteristics and Processing Challenges**](talks/Clinical data characteristics and processing challenges.pdf) <br/>
+Accumulate Technical Meeting, 19th December 2016
 
-* **Psychiatric symptom severity identification, and experiences with cTakes** <br/>
-Accumulate Technical Meeting, 25th August 2016 <br/>
-[slides](talks/Accumulate-25thAug2016.pdf)
+* [**Psychiatric symptom severity identification, and experiences with cTakes**](talks/Accumulate-25thAug2016.pdf) <br/>
+Accumulate Technical Meeting, 25th August 2016
 
 # Posters
 
-* **Unsupervised patient representations from clinical notes with interpretable classification decisions** <br/>
-Workshop on Machine Learning for Health, NIPS 2017; ATILA 2017 <br/>
-[poster](posters/ml4h2017.pdf)
+* [**Unsupervised patient representations from clinical notes with interpretable classification decisions**](posters/ml4h2017.pdf) <br/>
+Workshop on Machine Learning for Health, NIPS 2017; ATILA 2017
 
-* **Symptom Severity Identification from Psychiatric Evaluation Notes** <br/>
-ATILA 2016 <br/>
-[poster](posters/atila2017.pdf)
+* [**Symptom Severity Identification from Psychiatric Evaluation Notes**](posters/atila2017.pdf) <br/>
+ATILA 2016
 
 # Thesis
 * [**Recognizing Textual Entailment**](thesis/MSc_Thesis.pdf) <br/>
