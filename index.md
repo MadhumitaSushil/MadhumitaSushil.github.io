@@ -26,6 +26,11 @@ Elyne Scheurwegs, Madhumita Sushil, Stéphan Tulkens, Walter Daelemans, Kim Luyc
 Journal of Biomedical Informatics, 2017 <br/>
 [bibtex](papers/bibtex/rdoc_jbi.bib)
 
+* [Integration of Safety and Smartness Using Cloud
+Services- An insight to future](https://link.springer.com/chapter/10.1007%2F978-1-4614-3535-8_25) <br/>
+Neha Tekriwal, Madhumita, P. Venkata Krishna <br/>
+Part of Lecture Notes in Electrical Engineering, 2012
+
 # Program Committee
 
 * Workshop on Machine Learning for Health, NIPS 2017.
@@ -58,6 +63,7 @@ Saarland University, May 2015
 # Thesis
 * [Recognizing Textual Entailment](thesis/MSc_Thesis.pdf) <br/>
 M.Sc. Thesis, February 2016
+[slides](talks/rte.pdf)
 
 # Articles
 * [Automatic Question Generation for Literature Review Writing Support - A Survey](articles/termPaper.pdf) <br/>
