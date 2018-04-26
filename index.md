@@ -59,5 +59,5 @@ ATILA 2016 <br/>
 [poster](posters/atila2017.pdf)
 
 # Thesis
-* [**Recognizing Textual Entailment**](thesis/MSc_Thesis.pdf)
+* [**Recognizing Textual Entailment**](thesis/MSc_Thesis.pdf) <br/>
 M.Sc. Thesis, February 2016
