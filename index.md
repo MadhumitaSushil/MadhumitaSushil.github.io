@@ -52,6 +52,9 @@ Workshop on Machine Learning for Health, NIPS 2017; ATILA 2017
 * [**Symptom Severity Identification from Psychiatric Evaluation Notes**](posters/atila2017.pdf) <br/>
 ATILA 2016
 
+* [**Evolution of Language from an Information Theoretic Point of View**](posters/info_theory.pdf) <br/>
+Saarland University, May 2015
+
 # Thesis
 * [**Recognizing Textual Entailment**](thesis/MSc_Thesis.pdf) <br/>
 M.Sc. Thesis, February 2016
