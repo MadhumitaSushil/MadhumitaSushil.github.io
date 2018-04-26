@@ -42,4 +42,4 @@ Computational Linguistics in the Netherlands 28 (CLIN28) <br/>
 
 * **Psychiatric symptom severity identification, and experiences with cTakes** <br/>
 Accumulate Technical Meeting, 25th August 2016 <br/>
-[slides](Accumulate-25thAug2016.pdf)
+[slides](talks/Accumulate-25thAug2016.pdf)
