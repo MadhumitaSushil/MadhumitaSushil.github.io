@@ -35,7 +35,7 @@ Journal of Biomedical Informatics, 2017 <br/>
 * [**Model Agnostic Interpretability Techniques**](talks/Model Agnostic Interpretability Techniques.pdf) <br/>
 CLiPS Lab Meeting, 6th March 2018
 
-* [**Unsupervised patient representations with interpretable classification decisions**](talks/CLIN28 - Unsupervised patient representations with interpretable classification decisions.pdf)
+* [**Unsupervised patient representations with interpretable classification decisions**](talks/CLIN28 - Unsupervised patient representations with interpretable classification decisions.pdf) <br/>
 Computational Linguistics in the Netherlands 28 (CLIN28) <br/>
 
 * [**Clinical Data Characteristics and Processing Challenges**](talks/Clinical data characteristics and processing challenges.pdf) <br/>
