@@ -58,3 +58,7 @@ Saarland University, May 2015
 # Thesis
 * [**Recognizing Textual Entailment**](thesis/MSc_Thesis.pdf) <br/>
 M.Sc. Thesis, February 2016
+
+# Articles
+* [Automatic Question Generation for Literature Review Writing Support - a survey](articles/termPaper.pdf) <br/>
+Saarland University, September 2014
