@@ -52,8 +52,7 @@ Accumulate Technical Meeting, 25th August 2016 <br/>
 
 * **Unsupervised patient representations from clinical notes with interpretable classification decisions** <br/>
 Madhumita Sushil, Simon Šuster, Kim Luyckx, Walter Daelemans <br/>
-Workshop on Machine Learning for Health, NIPS 2017 <br/>
-ATILA 2017<br/>
+Workshop on Machine Learning for Health, NIPS 2017; ATILA 2017 <br/>
 [poster](posters/ml4h2017.pdf)
 
 * **Symptom Severity Identification from Psychiatric Evaluation Notes** <br/>
