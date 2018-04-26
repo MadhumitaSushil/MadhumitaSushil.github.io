@@ -39,3 +39,7 @@ CLiPS Lab Meeting, 6th March 2018 <br/>
 * **Unsupervised patient representations with interpretable classification decisions** <br/>
 Computational Linguistics in the Netherlands 28 (CLIN28) <br/>
 [slides](talks/CLIN28 - Unsupervised patient representations with interpretable classification decisions.pdf)
+
+* **Psychiatric symptom severity identification, and experiences with cTakes** <br/>
+Accumulate Technical Meeting, 25th August 2016 <br/>
+[slides](Accumulate-25thAug2016.pdf)
