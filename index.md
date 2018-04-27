@@ -65,6 +65,6 @@ Saarland University, May 2015
 M.Sc. Thesis, February 2016 <br/>
 [slides](talks/rte.pdf)
 
-# Articles
+# Reports
 * [Automatic Question Generation for Literature Review Writing Support - A Survey](articles/termPaper.pdf) <br/>
 Saarland University, September 2014
