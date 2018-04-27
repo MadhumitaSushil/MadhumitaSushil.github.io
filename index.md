@@ -24,7 +24,7 @@ Workshop on Machine Learning for Health, NIPS 2017 <br/>
 * [Counting trees in Random Forests: Predicting symptom severity in psychiatric intake reports](https://www.sciencedirect.com/science/article/pii/S1532046417301302) <br/>
 Elyne Scheurwegs, Madhumita Sushil, Stéphan Tulkens, Walter Daelemans, Kim Luyckx <br/>
 Journal of Biomedical Informatics, 2017 <br/>
-[bibtex](papers/bibtex/rdoc_jbi.bib)
+[bibtex](papers/bibtex/rdoc_jbi.bib) | [code](https://github.com/Elyne/rdocChallenge)
 
 * [Integration of Safety and Smartness Using Cloud
 Services- An insight to future](https://link.springer.com/chapter/10.1007%2F978-1-4614-3535-8_25) <br/>
