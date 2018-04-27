@@ -14,7 +14,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -28,8 +28,7 @@
       <br/>
       Office: S.L.207, Lange Winkelstraat 40, 2000 Antwerp, Belgium <br/>
       <br/>
-      Email: <br/>
-      <a href = "mailto:madhumita.sushil@outlook.com">madhumita.sushil@outlook.com</a> <br/>
+      Email:  <a href = "mailto:madhumita.sushil@outlook.com">madhumita.sushil@outlook.com</a> <br/>
         </p>
 
         {% if site.github.is_project_page %}
