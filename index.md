@@ -37,6 +37,9 @@ Part of Lecture Notes in Electrical Engineering, 2012
 
 # Talks
 
+* [Identifying Patients with Major Diabetes-related Complications](talks/major-diab-comp.pdf) <br/>
+CLiPS Lab Meeting, 15th May 2018
+
 * [Model Agnostic Interpretability Techniques](talks/Model Agnostic Interpretability Techniques.pdf) <br/>
 CLiPS Lab Meeting, 6th March 2018
 
