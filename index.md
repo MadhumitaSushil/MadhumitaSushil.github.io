@@ -12,9 +12,9 @@ Previously, I have worked on clinical text understanding also as a Junior Resear
 
 # Publications
 
-* (Under Review) Patient representation learning and interpretable evaluation using clinical notes <br/>
+* Patient representation learning and interpretable evaluation using clinical notes <br/>
 Madhumita Sushil, Simon Šuster, Kim Luyckx, Walter Daelemans <br/>
-Journal of Biomedical Informatics <br/>
+Journal of Biomedical Informatics, 2018 <br/>
 
 * [Unsupervised patient representations from clinical notes with interpretable classification decisions](https://arxiv.org/abs/1711.05198) <br/>
 Madhumita Sushil, Simon Šuster, Kim Luyckx, Walter Daelemans <br/>
