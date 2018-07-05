@@ -12,23 +12,24 @@ Previously, I have worked on clinical text understanding also as a Junior Resear
 
 # Publications
 
-* Patient representation learning and interpretable evaluation using clinical notes <br/>
-Madhumita Sushil, Simon Šuster, Kim Luyckx, Walter Daelemans <br/>
+* [Patient representation learning and interpretable evaluation using clinical notes](https://www.sciencedirect.com/science/article/pii/S1532046418301266) <br/>
+<b>Madhumita Sushil</b>, Simon Šuster, Kim Luyckx, Walter Daelemans <br/>
 Journal of Biomedical Informatics, 2018 <br/>
+[bibtex](papers/jbi_rep_learning.bib) | [arXiv preprint](https://arxiv.org/abs/1807.01395)
 
 * [Unsupervised patient representations from clinical notes with interpretable classification decisions](https://arxiv.org/abs/1711.05198) <br/>
-Madhumita Sushil, Simon Šuster, Kim Luyckx, Walter Daelemans <br/>
+<b>Madhumita Sushil</b>, Simon Šuster, Kim Luyckx, Walter Daelemans <br/>
 Workshop on Machine Learning for Health, NIPS 2017 <br/>
 [bibtex](papers/bibtex/patientrep_ml4h.bib)
 
 * [Counting trees in Random Forests: Predicting symptom severity in psychiatric intake reports](https://www.sciencedirect.com/science/article/pii/S1532046417301302) <br/>
-Elyne Scheurwegs, Madhumita Sushil, Stéphan Tulkens, Walter Daelemans, Kim Luyckx <br/>
+Elyne Scheurwegs, <b>Madhumita Sushil</b>, Stéphan Tulkens, Walter Daelemans, Kim Luyckx <br/>
 Journal of Biomedical Informatics, 2017 <br/>
 [bibtex](papers/bibtex/rdoc_jbi.bib) | [code](https://github.com/Elyne/rdocChallenge)
 
 * [Integration of Safety and Smartness Using Cloud
 Services- An insight to future](https://link.springer.com/chapter/10.1007%2F978-1-4614-3535-8_25) <br/>
-Neha Tekriwal, Madhumita, P. Venkata Krishna <br/>
+Neha Tekriwal, <b>Madhumita</b>, P. Venkata Krishna <br/>
 Part of Lecture Notes in Electrical Engineering, 2012
 
 # Program Committee
