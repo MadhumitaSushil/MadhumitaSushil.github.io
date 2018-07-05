@@ -39,27 +39,27 @@ Part of Lecture Notes in Electrical Engineering, 2012
 # Talks
 
 * [Identifying Patients with Major Diabetes-related Complications](talks/major-diab-comp.pdf) <br/>
-CLiPS Lab Meeting, 15th May 2018
+CLiPS Lab Meeting, May 2018
 
 * [Model Agnostic Interpretability Techniques](talks/Model Agnostic Interpretability Techniques.pdf) <br/>
-CLiPS Lab Meeting, 6th March 2018
+CLiPS Lab Meeting, March 2018
 
 * [Unsupervised patient representations with interpretable classification decisions](talks/CLIN28 - Unsupervised patient representations with interpretable classification decisions.pdf) <br/>
-Computational Linguistics in the Netherlands 28 (CLIN28) <br/>
+Computational Linguistics in the Netherlands 28 (CLIN28), January 2018 <br/>
 
 * [Clinical Data Characteristics and Processing Challenges](talks/Clinical data characteristics and processing challenges.pdf) <br/>
-Accumulate Technical Meeting, 19th December 2016
+Accumulate Technical Meeting, December 2016
 
 * [Psychiatric symptom severity identification, and experiences with cTakes](talks/Accumulate-25thAug2016.pdf) <br/>
-Accumulate Technical Meeting, 25th August 2016
+Accumulate Technical Meeting, August 2016
 
 # Posters
 
 * [Unsupervised patient representations from clinical notes with interpretable classification decisions](posters/ml4h2017.pdf) <br/>
-Workshop on Machine Learning for Health, NIPS 2017; ATILA 2017
+Workshop on Machine Learning for Health, NIPS, December 2017; ATILA, November 2017
 
 * [Symptom Severity Identification from Psychiatric Evaluation Notes](posters/atila2017.pdf) <br/>
-ATILA 2016
+ATILA, October 2016
 
 * [Evolution of Language from an Information Theoretic Point of View](posters/info_theory.pdf) <br/>
 Saarland University, May 2015
