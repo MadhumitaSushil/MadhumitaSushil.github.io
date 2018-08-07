@@ -4,7 +4,7 @@ layout: default
 
 # About me
 
-I am a PhD student in clinical Natural Language Processing at the Computational Linguistics and Psycholinguistics (CLiPS) Research Center, University of Antwerp, Belgium. My PhD supervisors are [Prof. Dr. Walter Daelemans](https://www.clips.uantwerpen.be/~walter/) and [Dr. Simon Šuster](http://simonsuster.github.io/). I am working on the [Accumulate](http://www.accumulate.be/) project funded by the the government agency Flanders Innovation and Entrepreneurship (VLAIO).
+I am a PhD student in clinical Natural Language Processing at the Computational Linguistics and Psycholinguistics (CLiPS) Research Center, University of Antwerp, Belgium. My PhD supervisors are [Prof. Dr. Walter Daelemans](https://www.clips.uantwerpen.be/~walter/) and [Dr. Simon Šuster](http://simonsuster.github.io/). I am currently working on the [Accumulate](http://www.accumulate.be/) project funded by the the government agency Flanders Innovation and Entrepreneurship (VLAIO).
 
 My research interest is to apply machine learning algorithms to understand natural language text. At the same time, I am also inspired to understand the behavior of trained neural networks to make them more interpretable. My current focus involves clinical text understanding using deep learning techniques. In particular, I am investigating different document representation techniques to learn semantic representations at the patient level, along with model-agnostic interpretability techniques to understand these models and representations.
 
@@ -14,6 +14,10 @@ Previously, I have worked on clinical text understanding also as a Junior Resear
 
 # Publications
 
+* [Rule induction for global explanation of trained models]
+<b>Madhumita Sushil</b>, Simon Šuster, Walter Daelemans <br/>
+Workshop on "Analyzing and interpreting neural networks for NLP" (BlackboxNLP), EMNLP 2018 <br/>
+
 * [Patient representation learning and interpretable evaluation using clinical notes](https://www.sciencedirect.com/science/article/pii/S1532046418301266) <br/>
 <b>Madhumita Sushil</b>, Simon Šuster, Kim Luyckx, Walter Daelemans <br/>
 Journal of Biomedical Informatics, 2018 <br/>
@@ -21,7 +25,7 @@ Journal of Biomedical Informatics, 2018 <br/>
 
 * [Unsupervised patient representations from clinical notes with interpretable classification decisions](https://arxiv.org/abs/1711.05198) <br/>
 <b>Madhumita Sushil</b>, Simon Šuster, Kim Luyckx, Walter Daelemans <br/>
-Workshop on Machine Learning for Health, NIPS 2017 <br/>
+Workshop on "Machine Learning for Health", NIPS 2017 <br/>
 [bibtex](papers/bibtex/patientrep_ml4h.bib)
 
 * [Counting trees in Random Forests: Predicting symptom severity in psychiatric intake reports](https://www.sciencedirect.com/science/article/pii/S1532046417301302) <br/>
