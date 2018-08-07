@@ -14,7 +14,7 @@ Previously, I have worked on clinical text understanding also as a Junior Resear
 
 # Publications
 
-* [Rule induction for global explanation of trained models]
+* Rule induction for global explanation of trained models <br/>
 <b>Madhumita Sushil</b>, Simon Šuster, Walter Daelemans <br/>
 Workshop on "Analyzing and interpreting neural networks for NLP" (BlackboxNLP), EMNLP 2018 <br/>
 
