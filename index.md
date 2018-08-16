@@ -16,7 +16,11 @@ Previously, I have worked on clinical text understanding also as a Junior Resear
 
 * Rule induction for global explanation of trained models <br/>
 <b>Madhumita Sushil</b>, Simon Šuster, Walter Daelemans <br/>
-Workshop on "Analyzing and interpreting neural networks for NLP" (BlackboxNLP), EMNLP 2018 <br/>
+Workshop on "Analyzing and interpreting neural networks for NLP (BlackboxNLP)", EMNLP 2018 <br/>
+
+* Revisiting neural relation classification in clinical notes with external information <br/>
+Simon Šuster, <b>Madhumita Sushil</b>, Walter Daelemans <br/>
+Workshop on "Health Text Mining and Information Analysis (LOUHI)", EMNLP 2018 <br/>
 
 * [Patient representation learning and interpretable evaluation using clinical notes](https://www.sciencedirect.com/science/article/pii/S1532046418301266) <br/>
 <b>Madhumita Sushil</b>, Simon Šuster, Kim Luyckx, Walter Daelemans <br/>
