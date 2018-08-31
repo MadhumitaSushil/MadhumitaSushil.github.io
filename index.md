@@ -14,7 +14,7 @@ Previously, I have worked on clinical text understanding also as a Junior Resear
 
 # Publications
 
-* Rule induction for global explanation of trained models <br/>
+* [Rule induction for global explanation of trained models](https://arxiv.org/abs/1808.09744) <br/>
 <b>Madhumita Sushil</b>, Simon Šuster, Walter Daelemans <br/>
 Workshop on *Analyzing and interpreting neural networks for NLP (BlackboxNLP)*, EMNLP 2018 <br/>
 [code](https://github.com/clips/interpret_with_rules)
@@ -31,7 +31,7 @@ Journal of Biomedical Informatics, 2018 <br/>
 
 * [Unsupervised patient representations from clinical notes with interpretable classification decisions](https://arxiv.org/abs/1711.05198) <br/>
 <b>Madhumita Sushil</b>, Simon Šuster, Kim Luyckx, Walter Daelemans <br/>
-Workshop on *Machine Learning for Health*, NIPS 2017 <br/>
+Workshop on *Machine Learning for Health*c, NIPS 2017 <br/>
 [bibtex](papers/bibtex/patientrep_ml4h.bib)
 
 * [Counting trees in Random Forests: Predicting symptom severity in psychiatric intake reports](https://www.sciencedirect.com/science/article/pii/S1532046417301302) <br/>
