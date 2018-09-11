@@ -31,7 +31,7 @@ Journal of Biomedical Informatics, 2018 <br/>
 
 * [Unsupervised patient representations from clinical notes with interpretable classification decisions](https://arxiv.org/abs/1711.05198) <br/>
 <b>Madhumita Sushil</b>, Simon Šuster, Kim Luyckx, Walter Daelemans <br/>
-Workshop on *Machine Learning for Health*c, NIPS 2017 <br/>
+Workshop on *Machine Learning for Health*, NIPS 2017 <br/>
 [bibtex](papers/bibtex/patientrep_ml4h.bib)
 
 * [Counting trees in Random Forests: Predicting symptom severity in psychiatric intake reports](https://www.sciencedirect.com/science/article/pii/S1532046417301302) <br/>
