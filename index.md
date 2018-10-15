@@ -4,9 +4,11 @@ layout: default
 
 # About me
 
-I am a PhD student in clinical Natural Language Processing at the Computational Linguistics and Psycholinguistics (CLiPS) Research Center, University of Antwerp, Belgium. My PhD supervisors are [Prof. Dr. Walter Daelemans](https://www.clips.uantwerpen.be/~walter/) and [Dr. Simon Šuster](http://simonsuster.github.io/). I am currently working on the [Accumulate](http://www.accumulate.be/) project funded by the the government agency Flanders Innovation and Entrepreneurship (VLAIO).
-
-My research interest is to apply machine learning algorithms to understand natural language text. At the same time, I am also inspired to understand the behavior of trained neural networks to make them more interpretable. My current focus involves clinical text understanding using deep learning techniques. In particular, I am investigating different document representation techniques to learn semantic representations at the patient level, along with model-agnostic interpretability techniques to understand these models and representations.
+I am a PhD student in clinical Natural Language Processing at the Computational Linguistics and Psycholinguistics (CLiPS) Research Center, University of Antwerp, Belgium. My PhD supervisors are [Prof. Dr. Walter Daelemans](https://www.clips.uantwerpen.be/~walter/) and [Dr. Simon Šuster](http://simonsuster.github.io/). My research interest is to apply machine learning algorithms to understand natural language text, with a current
+focus on clinical text. In particular, I am investigating different deep learning techniques to learn semantic
+representations at the patient level. In the clinical domain, an important requirement is often making predictions
+explainable. Consequently, my second focus involves developing model-agnostic interpretability methods to better
+understand these representations and how they affect downstream prediction tasks. I am currently working on the project [Accumulate](http://www.accumulate.be/) funded by the the government agency Flanders Innovation and Entrepreneurship (VLAIO).
 
 I hold a Master of Science in Language Science and Technology (spec. Language Technology) from Saarland University, Germany, and a Bachelor of Technology in Computer Science and Engineering from VIT University, Vellore, India.
 
@@ -82,6 +84,6 @@ Saarland University, May 2015
 M.Sc. Thesis, February 2016 <br/>
 [slides](talks/rte.pdf)
 
-# Reports
-* [Automatic Question Generation for Literature Review Writing Support - A Survey](articles/termPaper.pdf) <br/>
+# Technical Reports
+* [Automatic Question Generation for Literature Review Writing Support - A Brief Survey](articles/termPaper.pdf) <br/>
 Saarland University, September 2014
