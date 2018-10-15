@@ -10,9 +10,7 @@ representations at the patient level. In the clinical domain, an important requi
 explainable. Consequently, my second focus involves developing model-agnostic interpretability methods to better
 understand these representations and how they affect downstream prediction tasks. I am currently working on the project [Accumulate](http://www.accumulate.be/) funded by the the government agency Flanders Innovation and Entrepreneurship (VLAIO).
 
-I hold a Master of Science in Language Science and Technology (spec. Language Technology) from Saarland University, Germany, and a Bachelor of Technology in Computer Science and Engineering from VIT University, Vellore, India.
-
-Previously, I have worked on clinical text understanding also as a Junior Research Developer at the Antwerp University Hospital, Belgium. Furthermore, I have worked towards recognizing textual entailment for the EU-funded [Excitement](https://sites.google.com/site/excitementproject/) project  as a Research Assistant at the German Research Center for Artifical Intelligence (DFKI), Saarbrücken, Germany.
+I hold a Master of Science in Language Science and Technology (spec. Language Technology) from Saarland University, Germany, and a Bachelor of Technology in Computer Science and Engineering from VIT University, Vellore, India. Previously, I have worked on clinical text understanding also as a Junior Research Developer at the Antwerp University Hospital, Belgium. Furthermore, I have worked towards recognizing textual entailment for the EU-funded [Excitement](https://sites.google.com/site/excitementproject/) project  as a Research Assistant at the German Research Center for Artifical Intelligence (DFKI), Saarbrücken, Germany.
 
 # Publications
 
