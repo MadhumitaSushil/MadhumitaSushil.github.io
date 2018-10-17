@@ -46,7 +46,7 @@ Part of Lecture Notes in Electrical Engineering, 2012
 
 # Program Committee
 
-* Workshop on Machine Learning for Health, NIPS 2017.
+* Workshop on Machine Learning for Health, NIPS 2017, 2018.
 
 # Talks
 
@@ -59,7 +59,7 @@ CLiPS Lab Meeting, March 2018
 * [Unsupervised patient representations with interpretable classification decisions](talks/CLIN28 - Unsupervised patient representations with interpretable classification decisions.pdf) <br/>
 Computational Linguistics in the Netherlands 28 (CLIN28), January 2018 <br/>
 
-* [Clinical Data Characteristics and Processing Challenges](talks/Clinical data characteristics and processing challenges.pdf) <br/>
+* [Clinical Data Characteristics and Processing Challenges](talks/Clinical data characteriWith Hinrich Schütze at LMU Munich: Interpretability/representation learning. Most likely non-clinical, but methods could be transferred/applied to clinical data. Ideal topic: Interpretable representation learning. How?stics and processing challenges.pdf) <br/>
 Accumulate Technical Meeting, December 2016
 
 * [Psychiatric symptom severity identification, and experiences with cTakes](talks/Accumulate-25thAug2016.pdf) <br/>
