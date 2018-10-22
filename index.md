@@ -19,7 +19,7 @@ I hold a Master of Science in Language Science and Technology (spec. Language Te
 Workshop on *Analyzing and interpreting neural networks for NLP (BlackboxNLP)*, EMNLP 2018 <br/>
 [code](https://github.com/clips/interpret_with_rules)
 
-* [Revisiting neural relation classification in clinical notes with external information](papers/pdf/revising-neural-relation.pdf) <br/>
+* [Revisiting neural relation classification in clinical notes with external information](papers/pdf/revisiting-neural-relation.pdf) <br/>
 Simon Šuster, <b>Madhumita Sushil</b>, Walter Daelemans <br/>
 Workshop on *Health Text Mining and Information Analysis (LOUHI)*, EMNLP 2018 <br/>
 [code](https://github.com/SimonSuster/seg_cnn)
