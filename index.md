@@ -14,14 +14,16 @@ I hold a Master of Science in Language Science and Technology (spec. Language Te
 
 # Publications
 
-* [Rule induction for global explanation of trained models](https://arxiv.org/abs/1808.09744) <br/>
+* [Rule induction for global explanation of trained models](https://aclweb.org/anthology/W18-5411) <br/>
 <b>Madhumita Sushil</b>, Simon Šuster, Walter Daelemans <br/>
 Workshop on *Analyzing and interpreting neural networks for NLP (BlackboxNLP)*, EMNLP 2018 <br/>
-[code](https://github.com/clips/interpret_with_rules)
+[bibtex](papers/bibtex/blackboxnlp18.bib)
+[code](https://github.com/clips/interpret_with_rules) [poster](posters/blackboxnlp_poster.pdf)
 
-* [Revisiting neural relation classification in clinical notes with external information](papers/pdf/revisiting-neural-relation.pdf) <br/>
+* [Revisiting neural relation classification in clinical notes with external information](https://aclweb.org/anthology/W18-5603) <br/>
 Simon Šuster, <b>Madhumita Sushil</b>, Walter Daelemans <br/>
 Workshop on *Health Text Mining and Information Analysis (LOUHI)*, EMNLP 2018 <br/>
+[bibtex](papers/bibtex/louhi18.bib)
 [code](https://github.com/SimonSuster/seg_cnn)
 
 * [Patient representation learning and interpretable evaluation using clinical notes](https://www.sciencedirect.com/science/article/pii/S1532046418301266) <br/>
