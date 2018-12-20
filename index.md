@@ -22,8 +22,8 @@ Workshop on *Analyzing and interpreting neural networks for NLP (BlackboxNLP)*, 
 * [Revisiting neural relation classification in clinical notes with external information](https://aclweb.org/anthology/W18-5603) <br/>
 Simon Šuster, <b>Madhumita Sushil</b>, Walter Daelemans <br/>
 Workshop on *Health Text Mining and Information Analysis (LOUHI)*, EMNLP 2018 <br/>
-[bibtex](papers/bibtex/louhi18.bib) | 
-[code](https://github.com/SimonSuster/seg_cnn)
+[bibtex](papers/bibtex/louhi18.bib) |
+[code](https://github.com/SimonSuster/seg_cnn) | [poster](posters/LOUHI2018relextrposter_final.pdf)
 
 * [Patient representation learning and interpretable evaluation using clinical notes](https://www.sciencedirect.com/science/article/pii/S1532046418301266) <br/>
 <b>Madhumita Sushil</b>, Simon Šuster, Kim Luyckx, Walter Daelemans <br/>
@@ -33,7 +33,7 @@ Journal of Biomedical Informatics, 2018 <br/>
 * [Unsupervised patient representations from clinical notes with interpretable classification decisions](https://arxiv.org/abs/1711.05198) <br/>
 <b>Madhumita Sushil</b>, Simon Šuster, Kim Luyckx, Walter Daelemans <br/>
 Workshop on *Machine Learning for Health*, NIPS 2017 <br/>
-[bibtex](papers/bibtex/patientrep_ml4h.bib)
+[bibtex](papers/bibtex/patientrep_ml4h.bib) | [poster](posters/ml4h2017.pdf)
 
 * [Counting trees in Random Forests: Predicting symptom severity in psychiatric intake reports](https://www.sciencedirect.com/science/article/pii/S1532046417301302) <br/>
 Elyne Scheurwegs, <b>Madhumita Sushil</b>, Stéphan Tulkens, Walter Daelemans, Kim Luyckx <br/>
@@ -67,10 +67,6 @@ Accumulate Technical Meeting, December 2016
 Accumulate Technical Meeting, August 2016
 
 # Posters
-
-* [Unsupervised patient representations from clinical notes with interpretable classification decisions](posters/ml4h2017.pdf) <br/>
-Workshop on Machine Learning for Health, NIPS, December 2017 <br/>
-ATILA  Workshop, Tilburg, November 2017
 
 * [Symptom Severity Identification from Psychiatric Evaluation Notes](posters/atila2017.pdf) <br/>
 ATILA Workshop, Nijmegen, October 2016
