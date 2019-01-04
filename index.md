@@ -45,9 +45,10 @@ Services- An insight to future](https://link.springer.com/chapter/10.1007%2F978-
 Neha Tekriwal, <b>Madhumita</b>, P. Venkata Krishna <br/>
 Part of Lecture Notes in Electrical Engineering, 2012
 
-# Program Committee
+# Service
 
-* Workshop on Machine Learning for Health, NIPS 2017, 2018.
+* <b>Program Committee</b>: Workshop on Machine Learning for Health, NIPS 2017, 2018.
+* <b>Student Board</b>: EACL 2019.
 
 # Talks
 
