@@ -52,6 +52,9 @@ Part of Lecture Notes in Electrical Engineering, 2012
 
 # Talks
 
+* [Understanding Machine Learning models for healthcare: Why, and how?](talks/Accumulate_22ndMar2019.pdf) <br/>
+Accumulate Industry Meeting, March 2019
+
 * [Identifying Patients with Major Diabetes-related Complications](talks/major-diab-comp.pdf) <br/>
 CLiPS Lab Meeting, May 2018
 
