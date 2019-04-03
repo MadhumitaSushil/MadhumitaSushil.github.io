@@ -79,7 +79,7 @@ ATILA Workshop, Nijmegen, October 2016
 Saarland University, May 2015
 
 # Thesis
-* [Recognizing Textual Entailment](thesis/MSc_Thesis.pdf) <br/>
+* Recognizing Textual Entailment <!-- [Recognizing Textual Entailment](thesis/MSc_Thesis.pdf) --> <br/>
 M.Sc. Thesis, February 2016 <br/>
 [slides](talks/rte.pdf)
 
