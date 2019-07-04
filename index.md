@@ -47,11 +47,13 @@ Part of Lecture Notes in Electrical Engineering, 2012
 
 # Service
 
-* <b>Program Committee</b>: Workshop on Machine Learning for Health at NeurIPS 2017, 2018.
-* <b>Reviewer</b>: ACL SRW 2019, Widening NLP (WiNLP) Workshop at ACL 2019.
+* <b>Program Committee</b>: Workshop on Machine Learning for Health at NeurIPS 2017, 2018; Widening NLP (WiNLP) Workshop at ACL 2019.
+* <b>Reviewer</b>: ACL SRW 2019.
 * <b>Student Board</b>: EACL 2019.
 
 # Talks
+* Synthetic dataset for explaining and evaluating rules learned by RNNs <br/>
+[Blackbox@NL Workshop](https://blackbox-nl.github.io/), May 2019
 
 * [Understanding Machine Learning models for healthcare: Why, and how?](talks/Accumulate_22ndMar2019.pdf) <br/>
 Accumulate Industry Meeting, March 2019
@@ -72,6 +74,9 @@ Accumulate Technical Meeting, December 2016
 Accumulate Technical Meeting, August 2016
 
 # Posters
+
+* Rule induction for global explanation of recurrent neural classifiers <br/>
+3rd Google NLP Summit, Zurich, June 2019
 
 * [Symptom Severity Identification from Psychiatric Evaluation Notes](posters/atila2017.pdf) <br/>
 ATILA Workshop, Nijmegen, October 2016
