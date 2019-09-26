@@ -47,7 +47,7 @@ Part of Lecture Notes in Electrical Engineering, 2012
 
 # Service
 
-* <b>Program Committee</b>: Workshop on Machine Learning for Health at NeurIPS 2017, 2018; Student Research Workshop and Widening NLP (WiNLP) Workshop at ACL 2019.
+* <b>Program Committee</b>: Workshop on Machine Learning for Health at NeurIPS 2017, 2018, 2019; Student Research Workshop and Widening NLP Workshop at ACL 2019.
 * <b>Student Board</b>: EACL 2019.
 
 # Talks
