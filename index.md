@@ -51,7 +51,7 @@ Part of Lecture Notes in Electrical Engineering, 2012
 * <b>Student Board</b>: EACL 2019.
 
 # Talks
-* Synthetic dataset for explaining and evaluating rules learned by RNNs <br/>
+* [Synthetic dataset for explaining and evaluating rules learned by RNNs](talks/Blackbox@NL.pdf) <br/>
 [Blackbox@NL Workshop](https://blackbox-nl.github.io/), May 2019
 
 * [Understanding Machine Learning models for healthcare: Why, and how?](talks/Accumulate_22ndMar2019.pdf) <br/>
@@ -74,7 +74,7 @@ Accumulate Technical Meeting, August 2016
 
 # Posters
 
-* Rule induction for global explanation of recurrent neural classifiers <br/>
+* [Rule induction for global explanation of recurrent neural classifiers](posters/Google NLP summit.pdf) <br/>
 3rd Google NLP Summit, Zurich, June 2019
 
 * [Symptom Severity Identification from Psychiatric Evaluation Notes](posters/atila2017.pdf) <br/>
