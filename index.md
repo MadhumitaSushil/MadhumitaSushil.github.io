@@ -8,7 +8,7 @@ I am a PhD student in clinical Natural Language Processing at the Computational 
 focus on clinical text. In particular, I am investigating different deep learning techniques to learn semantic
 representations at the patient level. In the clinical domain, an important requirement is often making predictions
 explainable. Consequently, my second focus involves developing model-agnostic interpretability methods to better
-understand these representations and how they affect downstream prediction tasks. I am currently working on the project [Accumulate](http://www.accumulate.be/) funded by the the government agency Flanders Innovation and Entrepreneurship (VLAIO).
+understand these representations and how they affect downstream prediction tasks. During my PhD, I have also worked as a research intern at the Google Brain Applied team in Zurich, where I investigated linguistic reasoning skills of BERT representations.
 
 I hold a Master of Science in Language Science and Technology (spec. Language Technology) from Saarland University, Germany, and a Bachelor of Technology in Computer Science and Engineering from VIT University, Vellore, India. Previously, I have worked on clinical text understanding also as a Junior Research Developer at the Antwerp University Hospital, Belgium. Furthermore, I have worked towards recognizing textual entailment for the EU-funded [Excitement](https://sites.google.com/site/excitementproject/) project  as a Research Assistant at the German Research Center for Artifical Intelligence (DFKI), Saarbrücken, Germany.
 
@@ -48,14 +48,18 @@ Part of Lecture Notes in Electrical Engineering, 2012
 # Service
 
 * <b>Program Committee</b>: Workshop on Machine Learning for Health at NeurIPS 2017, 2018, 2019; Student Research Workshop and Widening NLP Workshop at ACL 2019.
-* <b>Student Board</b>: EACL 2019.
+* <b>Student Board</b>: EACL 2019&ndash;20.
 
 # Talks
+
+* [Lessons learned from clinical language processing](talks/UCSF_seminar.pdf) <br/>
+Seminar at Butte lab, University of California-San Francisco, July 2020
+
 * [Synthetic dataset for explaining and evaluating rules learned by RNNs](talks/Blackbox@NL.pdf) <br/>
 [Blackbox@NL Workshop](https://blackbox-nl.github.io/), May 2019
 
 * [Understanding Machine Learning models for healthcare: Why, and how?](talks/Accumulate_22ndMar2019.pdf) <br/>
-Accumulate Industry Meeting, March 2019
+Project [Accumulate](https://www.accumulate.be/index.html) Industry Meeting, March 2019
 
 * [Identifying Patients with Major Diabetes-related Complications](talks/major-diab-comp.pdf) <br/>
 CLiPS Lab Meeting, May 2018
@@ -67,10 +71,10 @@ CLiPS Lab Meeting, March 2018
 Computational Linguistics in the Netherlands 28 (CLIN28), January 2018 <br/>
 
 * [Clinical Data Characteristics and Processing Challenges](talks/Clinical data characteristics and processing challenges.pdf) <br/>
-Accumulate Technical Meeting, December 2016
+Project [Accumulate](https://www.accumulate.be/index.html) Technical Meeting, December 2016
 
 * [Psychiatric symptom severity identification, and experiences with cTakes](talks/Accumulate-25thAug2016.pdf) <br/>
-Accumulate Technical Meeting, August 2016
+Project [Accumulate](https://www.accumulate.be/index.html) Technical Meeting, August 2016
 
 # Posters
 
