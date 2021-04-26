@@ -12,7 +12,7 @@ I also hold a Master of Science in Language Science and Technology (spec. Langua
 
 * Are we there yet? Exploring clinical domain knowledge of BERT models <br/>
 <b>Madhumita Sushil</b>, Simon Šuster, Walter Daelemans <br/>
-BioNLP Workshop, NAACL 2021 <br/>
+*BioNLP* Workshop, NAACL 2021 <br/>
 bibtex
 
 * Contextual explanation rules for neural clinical classifiers <br/>
