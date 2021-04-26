@@ -4,15 +4,21 @@ layout: default
 
 # About me
 
-I am a PhD student in clinical Natural Language Processing at the Computational Linguistics and Psycholinguistics (CLiPS) Research Center, University of Antwerp, Belgium. My PhD supervisors are [Prof. Dr. Walter Daelemans](https://www.clips.uantwerpen.be/~walter/) and [Dr. Simon Šuster](http://simonsuster.github.io/). My research interest is to apply machine learning algorithms to understand natural language text, with a current
-focus on clinical text. In particular, I am investigating different deep learning techniques to learn semantic
-representations at the patient level. In the clinical domain, an important requirement is often making predictions
-explainable. Consequently, my second focus involves developing model-agnostic interpretability methods to better
-understand these representations and how they affect downstream prediction tasks. During my PhD, I have also worked as a research intern at the Google Brain Applied team in Zurich, where I investigated linguistic reasoning skills of BERT representations.
+I am postdoctoral researcher at University of California, San Francisco in the [Butte Lab](https://buttelab.ucsf.edu/). I have obtained a PhD in clinical Natural Language Processing at the [Computational Linguistics and Psycholinguistics (CLiPS) Research Center](https://www.uantwerpen.be/en/research-groups/clips/), University of Antwerp, Belgium, under [Prof. Dr. Walter Daelemans](https://www.clips.uantwerpen.be/~walter/) and [Dr. Simon Šuster](http://simonsuster.github.io/). My research interest is to develop machine learning algorithms to understand the rhetoric and nuances in clinical text, and to use these insights for answering clinical research questions. I am particularly interested in developing interpretable deep learning models to develop clinical insights in the process. During my PhD, I have also worked as a research intern at the Google Brain Applied team in Zurich, where I investigated linguistic reasoning skills of BERT representations. I have been involved in several academic service positions throughout.
 
-I hold a Master of Science in Language Science and Technology (spec. Language Technology) from Saarland University, Germany, and a Bachelor of Technology in Computer Science and Engineering from VIT University, Vellore, India. Previously, I have worked on clinical text understanding also as a Junior Research Developer at the Antwerp University Hospital, Belgium. Furthermore, I have worked towards recognizing textual entailment for the EU-funded [Excitement](https://sites.google.com/site/excitementproject/) project  as a Research Assistant at the German Research Center for Artifical Intelligence (DFKI), Saarbrücken, Germany.
+I also hold a Master of Science in Language Science and Technology (spec. Language Technology) from Saarland University, Germany, and a Bachelor of Technology in Computer Science and Engineering from VIT University, Vellore, India. Previously, I have worked on clinical text understanding also as a Junior Research Developer at the Antwerp University Hospital, Belgium. Furthermore, I have worked towards recognizing textual entailment for the EU-funded [Excitement](https://sites.google.com/site/excitementproject/) project  as a Research Assistant at the German Research Center for Artifical Intelligence (DFKI), Saarbrücken, Germany.
 
 # Publications
+
+* Are we there yet? Exploring clinical domain knowledge of BERT models <br/>
+<b>Madhumita Sushil</b>, Simon Šuster, Walter Daelemans <br/>
+BioNLP Workshop, NAACL 2021 <br/>
+bibtex
+
+* Contextual explanation rules for neural clinical classifiers <br/>
+<b>Madhumita Sushil</b>, Simon Šuster, Walter Daelemans <br/>
+*BioNLP* Workshop, NAACL 2021 <br/>
+bibtex | [code](https://github.com/clips/rnn_expl_rules)
 
 * [Rule induction for global explanation of trained models](https://aclweb.org/anthology/W18-5411) <br/>
 <b>Madhumita Sushil</b>, Simon Šuster, Walter Daelemans <br/>
@@ -49,6 +55,7 @@ Part of Lecture Notes in Electrical Engineering, 2012
 
 * <b>Program Committee</b>: Workshop on Machine Learning for Health at NeurIPS 2017, 2018, 2019; Student Research Workshop and Widening NLP Workshop at ACL 2019.
 * <b>Student Board</b>: EACL 2019&ndash;20.
+* <b>Co-chair</b>: Student Research Workshop at EACL 2021.
 
 # Talks
 
