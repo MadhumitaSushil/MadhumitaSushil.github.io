@@ -53,7 +53,9 @@ Part of Lecture Notes in Electrical Engineering, 2012
 
 # Service
 
-* <b>Program Committee</b>: Workshop on Machine Learning for Health at NeurIPS 2017, 2018, 2019; Student Research Workshop and Widening NLP Workshop at ACL 2019.
+* <b>Program Committee</b>: Workshop on Machine Learning for Health at NeurIPS 2017, 2018, 2019; Student Research Workshop and Widening NLP Workshop at ACL 2019; American Medical Informatics Association 2022; SimBing 2021.
+* <b>Reviewer</b>; BMC Medical Informatics 2021
+* <b>Session chair: clinical NLP</b>; AMIA 2021
 * <b>Student Board</b>: EACL 2019&ndash;20.
 * <b>Co-chair</b>: Student Research Workshop at EACL 2021.
 
