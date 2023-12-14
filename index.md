@@ -4,7 +4,7 @@ layout: default
 
 # About me
 
-I am postdoctoral researcher at University of California, San Francisco in the [Butte Lab](https://buttelab.ucsf.edu/). I have obtained a PhD in clinical Natural Language Processing at the [Computational Linguistics and Psycholinguistics (CLiPS) Research Center](https://www.uantwerpen.be/en/research-groups/clips/), University of Antwerp, Belgium, under [Prof. Dr. Walter Daelemans](https://www.clips.uantwerpen.be/~walter/) and [Dr. Simon Šuster](http://simonsuster.github.io/). My research interest is to develop foundation models to understand the nuances in electronic health record data, and to use these insights for answering clinical research questions. I am particularly interested in developing strategies for inferring causal patterns from observational textual data, improving generalization for low frequency data samples, and developing multi-modal and interpretable foundation models to improve the understanding of patients' disease and treatment trajectory. I have extensive experience with the development of methodology for deep learning model interpretability and retrieval-augmented classification, and in creating benchmarking datasets for advanced oncology-specific information extraction from clinical notes.
+I am postdoctoral researcher at University of California, San Francisco with [Prof. Atul Butte]([https://buttelab.ucsf.edu/](https://profiles.ucsf.edu/atul.butte). I have obtained a PhD in clinical Natural Language Processing at the [Computational Linguistics and Psycholinguistics (CLiPS) Research Center](https://www.uantwerpen.be/en/research-groups/clips/), University of Antwerp, Belgium, under [Prof. Dr. Walter Daelemans](https://www.clips.uantwerpen.be/~walter/) and [Dr. Simon Šuster](http://simonsuster.github.io/). My research interest is to develop foundation models to understand the nuances in electronic health record data, and to use these insights for answering clinical research questions. I am particularly interested in developing strategies for inferring causal patterns from observational textual data, improving generalization for low frequency data samples, and developing multi-modal and interpretable foundation models to improve the understanding of patients' disease and treatment trajectory. I have extensive experience with the development of methodology for deep learning model interpretability and retrieval-augmented classification, and in creating benchmarking datasets for advanced oncology-specific information extraction from clinical notes.
 
 During my PhD, I have worked as a research intern at the Google Brain Applied team in Zurich, where I investigated linguistic reasoning skills of BERT representations. I have additionally been involved in several academic service positions throughout. I hold a Master of Science in Language Science and Technology (spec. Language Technology) from Saarland University, Germany, and a Bachelor of Technology in Computer Science and Engineering from VIT University, Vellore, India. I have additionally worked on clinical text understanding as a Junior Research Developer at the Antwerp University Hospital, Belgium, and contributed towards recognizing textual entailment for the EU-funded [Excitement](https://sites.google.com/site/excitementproject/) project as a Research Assistant at the German Research Center for Artifical Intelligence (DFKI), Saarbrücken, Germany.
 
@@ -21,7 +21,7 @@ During my PhD, I have worked as a research intern at the Google Brain Applied te
 * [Contextual explanation rules for neural clinical classifiers](https://aclanthology.org/2021.bionlp-1.22/) <br/>
 <b>Madhumita Sushil</b>, Simon Šuster, Walter Daelemans <br/>
 *BioNLP* Workshop, NAACL 2021 <br/>
-[bibtex](papers/bibtex/bionlp21-2.bib) | [code](https://github.com/clips/rnn_expl_rules)
+[bibtex](papers/bibtex/bionlp21-2.bib) | [code](https://github.com/clips/rnn_expl_rules) | [poster](posters/bionlp_interpretability.pdf)
 
 * [Rule induction for global explanation of trained models](https://aclweb.org/anthology/W18-5411) <br/>
 <b>Madhumita Sushil</b>, Simon Šuster, Walter Daelemans <br/>
@@ -37,7 +37,7 @@ Workshop on *Health Text Mining and Information Analysis (LOUHI)*, EMNLP 2018 <b
 * [Patient representation learning and interpretable evaluation using clinical notes](https://www.sciencedirect.com/science/article/pii/S1532046418301266) <br/>
 <b>Madhumita Sushil</b>, Simon Šuster, Kim Luyckx, Walter Daelemans <br/>
 Journal of Biomedical Informatics, 2018 <br/>
-[bibtex](papers/bibtex/jbi_rep_learning.bib) | [arXiv preprint](https://arxiv.org/abs/1807.01395)
+[bibtex](papers/bibtex/jbi_rep_learning.bib) | [code]() | [arXiv preprint](https://arxiv.org/abs/1807.01395)
 
 * [Unsupervised patient representations from clinical notes with interpretable classification decisions](https://arxiv.org/abs/1711.05198) <br/>
 <b>Madhumita Sushil</b>, Simon Šuster, Kim Luyckx, Walter Daelemans <br/>
@@ -55,15 +55,15 @@ Neha Tekriwal, <b>Madhumita</b>, P. Venkata Krishna <br/>
 Part of Lecture Notes in Electrical Engineering, 2012
 
 # Mentoring
-* <b> MEng Capstone project, UC Berkeley, 2022-2023 </b>: Breast cancer pathology extraction from pathology reports.
+* <b>MEng Capstone project, UC Berkeley, 2022-2023</b>: Breast cancer pathology extraction from pathology reports.
  <br/> Mentees: Ahmed Wali, Yan-Ning Yu, Yuwei Quan, Zhiwei Zheng
-* <b> Biomedical Informatics PhD student, UCSF </b>: Social determinants of health exploration from social work notes.
+* <b>Biomedical Informatics PhD student, UCSF</b>: Social determinants of health exploration from social work notes.
   <br/> Mentee: Shenghuan Sun
-* <b> Google Summer of Code, 2019 </b>: [Bias identification in machine learning models](https://github.com/clips/gsoc2019_bias)
+* <b>Google Summer of Code, 2019</b>: [Bias identification in machine learning models](https://github.com/clips/gsoc2019_bias)
   <br/> Mentee: Panagiotis Lantavos, Artistotle University of Thessaloniki
   
 # Service
-* <b>Reviewer/Program Committee Member:</b>; Journal of Biomedical Informatics 2023; Biomedical Natural Language Processing (BioNLP) workshop at ACL 2022, 2023; BMC Medical Informatics 2021; 
+* <b>Reviewer/Program Committee Member:</b>Journal of Biomedical Informatics 2023; Biomedical Natural Language Processing (BioNLP) workshop at ACL 2022, 2023; BMC Medical Informatics 2021; 
 AMIA Informatics Summit ’23, AMIA Annual Symposium ’22, ’23; International Conference on Information Management and Big Data (SIMBig) ’21, ’23; Workshop on Machine Learning for Health at NeurIPS 2017, 2018, 2019; Student Research Workshop and Widening NLP Workshop at ACL 2019; American Medical Informatics Association 2022.
 * <b>Session chair: clinical NLP</b>; AMIA 2021
 * <b>Student Board</b>: EACL 2019&ndash;20.
