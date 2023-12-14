@@ -55,15 +55,15 @@ Neha Tekriwal, <b>Madhumita</b>, P. Venkata Krishna <br/>
 Part of Lecture Notes in Electrical Engineering, 2012
 
 # Mentoring
-* <b> MEng Capstone project, UC Berkeley, 2022-2023 </b>: Breast cancer pathology extraction from pathology reports. <br/>
-  Mentees: Ahmed Wali, Yan-Ning Yu, Yuwei Quan, Zhiwei Zheng
-* <b> Biomedical Informatics PhD student, UCSF </b>: Social determinants of health exploration from social work notes. <br/>
-  Mentee: Shenghuan Sun
+* <b> MEng Capstone project, UC Berkeley, 2022-2023 </b>: Breast cancer pathology extraction from pathology reports.
+ <br/> Mentees: Ahmed Wali, Yan-Ning Yu, Yuwei Quan, Zhiwei Zheng
+* <b> Biomedical Informatics PhD student, UCSF </b>: Social determinants of health exploration from social work notes.
+  <br/> Mentee: Shenghuan Sun
 * <b> Google Summer of Code, 2019 </b>: [Bias identification in machine learning models](https://github.com/clips/gsoc2019_bias)
-  Mentee: Panagiotis Lantavos, Artistotle University of Thessaloniki
+  <br/> Mentee: Panagiotis Lantavos, Artistotle University of Thessaloniki
   
 # Service
-* <b>Reviewer/</b>; Journal of Biomedical Informatics 2023; Biomedical Natural Language Processing (BioNLP) workshop at ACL 2022, 2023; BMC Medical Informatics 2021; 
+* <b>Reviewer/Program Committee Member:</b>; Journal of Biomedical Informatics 2023; Biomedical Natural Language Processing (BioNLP) workshop at ACL 2022, 2023; BMC Medical Informatics 2021; 
 AMIA Informatics Summit ’23, AMIA Annual Symposium ’22, ’23; International Conference on Information Management and Big Data (SIMBig) ’21, ’23; Workshop on Machine Learning for Health at NeurIPS 2017, 2018, 2019; Student Research Workshop and Widening NLP Workshop at ACL 2019; American Medical Informatics Association 2022.
 * <b>Session chair: clinical NLP</b>; AMIA 2021
 * <b>Student Board</b>: EACL 2019&ndash;20.
@@ -100,7 +100,7 @@ Project [Accumulate](https://www.accumulate.be/index.html) Technical Meeting, Au
 
 # Posters
 
-* [Large Language Models are Zero-shot Oncology Information Extractors](posters/Gptextract.pdf) <br/>
+* [Large Language Models are Zero-shot Oncology Information Extractors](posters/GptExtract.pdf) <br/>
 AMIA Annual Symposium, 2023
 
 * [Training a transferrable clinical language model from 75 million notes](posters/UCSF-BERT.pdf) <br/>
@@ -116,7 +116,7 @@ ATILA Workshop, Nijmegen, October 2016
 Saarland University, May 2015
 
 # Thesis
-* [Exploring and Understanding Neural Models for Clinical Tasks](https://repository.uantwerpen.be/docman/irua/45481a/madhumita_sushil_phd_thesis.pdf)
+* [Exploring and Understanding Neural Models for Clinical Tasks](https://repository.uantwerpen.be/docman/irua/45481a/madhumita_sushil_phd_thesis.pdf) <br/>
 Ph.D. Thesis, March 2021 <br/>
 [slides](talks/PhD_defense.pdf)
 
