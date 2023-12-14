@@ -4,21 +4,24 @@ layout: default
 
 # About me
 
-I am postdoctoral researcher at University of California, San Francisco in the [Butte Lab](https://buttelab.ucsf.edu/). I have obtained a PhD in clinical Natural Language Processing at the [Computational Linguistics and Psycholinguistics (CLiPS) Research Center](https://www.uantwerpen.be/en/research-groups/clips/), University of Antwerp, Belgium, under [Prof. Dr. Walter Daelemans](https://www.clips.uantwerpen.be/~walter/) and [Dr. Simon Šuster](http://simonsuster.github.io/). My research interest is to develop foundation models to understand the nuances in electronic health record data, and to use these insights for answering clinical research questions. I am particularly interested in developing strategies for inferring causal patterns from observational textual data, improving generalization for low frequency data samples, and developing multi-modal and interpretable foundation models to improve the understanding of patients' disease and treatment trajectory. I have extensive experience with the development of methodology for deep learning model interpretability and retrieval-augmented classification, and creating benchmarking datasets for advanced oncology-specific information extraction from clinical notes. 
+I am postdoctoral researcher at University of California, San Francisco in the [Butte Lab](https://buttelab.ucsf.edu/). I have obtained a PhD in clinical Natural Language Processing at the [Computational Linguistics and Psycholinguistics (CLiPS) Research Center](https://www.uantwerpen.be/en/research-groups/clips/), University of Antwerp, Belgium, under [Prof. Dr. Walter Daelemans](https://www.clips.uantwerpen.be/~walter/) and [Dr. Simon Šuster](http://simonsuster.github.io/). My research interest is to develop foundation models to understand the nuances in electronic health record data, and to use these insights for answering clinical research questions. I am particularly interested in developing strategies for inferring causal patterns from observational textual data, improving generalization for low frequency data samples, and developing multi-modal and interpretable foundation models to improve the understanding of patients' disease and treatment trajectory. I have extensive experience with the development of methodology for deep learning model interpretability and retrieval-augmented classification, and in creating benchmarking datasets for advanced oncology-specific information extraction from clinical notes. 
 
 During my PhD, I have worked as a research intern at the Google Brain Applied team in Zurich, where I investigated linguistic reasoning skills of BERT representations. I have additionally been involved in several academic service positions throughout. I hold a Master of Science in Language Science and Technology (spec. Language Technology) from Saarland University, Germany, and a Bachelor of Technology in Computer Science and Engineering from VIT University, Vellore, India. I have additionally worked on clinical text understanding as a Junior Research Developer at the Antwerp University Hospital, Belgium, and contributed towards recognizing textual entailment for the EU-funded [Excitement](https://sites.google.com/site/excitementproject/) project as a Research Assistant at the German Research Center for Artifical Intelligence (DFKI), Saarbrücken, Germany.
+
+# Research Grants
+Co-lead, NIH-NCI supplement award to the Helen Diller Family Comprehensive Cancer Center on "Large language models for treatment and pathology data extraction" ($300,000).
 
 # Publications
 
 * [Are we there yet? Exploring clinical domain knowledge of BERT models](https://aclanthology.org/2021.bionlp-1.5) <br/>
 <b>Madhumita Sushil</b>, Simon Šuster, Walter Daelemans <br/>
 *BioNLP* Workshop, NAACL 2021 <br/>
-bibtex
+[bibtex](papers/bibtex/bionlp21-1.bib)
 
 * [Contextual explanation rules for neural clinical classifiers](https://aclanthology.org/2021.bionlp-1.22/) <br/>
 <b>Madhumita Sushil</b>, Simon Šuster, Walter Daelemans <br/>
 *BioNLP* Workshop, NAACL 2021 <br/>
-bibtex | [code](https://github.com/clips/rnn_expl_rules)
+[bibtex](papers/bibtex/bionlp21-2.bib) | [code](https://github.com/clips/rnn_expl_rules)
 
 * [Rule induction for global explanation of trained models](https://aclweb.org/anthology/W18-5411) <br/>
 <b>Madhumita Sushil</b>, Simon Šuster, Walter Daelemans <br/>
