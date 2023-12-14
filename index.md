@@ -9,7 +9,7 @@ I am postdoctoral researcher at University of California, San Francisco in the [
 During my PhD, I have worked as a research intern at the Google Brain Applied team in Zurich, where I investigated linguistic reasoning skills of BERT representations. I have additionally been involved in several academic service positions throughout. I hold a Master of Science in Language Science and Technology (spec. Language Technology) from Saarland University, Germany, and a Bachelor of Technology in Computer Science and Engineering from VIT University, Vellore, India. I have additionally worked on clinical text understanding as a Junior Research Developer at the Antwerp University Hospital, Belgium, and contributed towards recognizing textual entailment for the EU-funded [Excitement](https://sites.google.com/site/excitementproject/) project as a Research Assistant at the German Research Center for Artifical Intelligence (DFKI), Saarbrücken, Germany.
 
 # Research Grants
-Co-lead, NIH-NCI supplement award to the Helen Diller Family Comprehensive Cancer Center on "Large language models for treatment and pathology data extraction" ($300,000).
+* Co-lead, NIH-NCI supplement award to the Helen Diller Family Comprehensive Cancer Center on "Large language models for treatment and pathology data extraction" ($300,000).
 
 # Publications
 
