@@ -11,7 +11,22 @@ During my PhD, I have worked as a research intern at the Google Brain Applied te
 # Research Grants
 * Co-lead, <b>NIH-NCI supplement award to the Helen Diller Family Comprehensive Cancer Center</b> on _Large language models for treatment and pathology data extraction_ ($300,000).
 
-# Publications
+# Selected Publications
+
+* Cross-institution natural language processing for reliable clinical association studies: a methodological exploration <br/>
+<b>Madhumita Sushil</b>, Atul J. Butte, Ewoud Schuit, Maarten van Smeden, Artuur M. Leeuwenberg <br/>
+*Journal of Clinical Epidemiology*, 2024 <br/>
+bibtex
+
+* Topic modeling on clinical social work notes for exploring social determinants of health factors <br/>
+Shenghuan Sun, Travis Zack, <b>Madhumita Sushil\*</b>, Atul J. Butte\* <br/>
+*JAMIA Open*, 2023 <br/>
+bibtex
+
+* [Are we there yet? Exploring clinical domain knowledge of BERT models](https://aclanthology.org/2021.bionlp-1.5) <br/>
+<b>Madhumita Sushil</b>, Simon Šuster, Walter Daelemans <br/>
+*BioNLP* Workshop, NAACL 2021 <br/>
+[bibtex](papers/bibtex/bionlp21-1.bib) | [slides](talks/NAACL_knowledge_integration.pdf)
 
 * [Are we there yet? Exploring clinical domain knowledge of BERT models](https://aclanthology.org/2021.bionlp-1.5) <br/>
 <b>Madhumita Sushil</b>, Simon Šuster, Walter Daelemans <br/>
