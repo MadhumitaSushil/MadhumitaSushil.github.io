@@ -59,10 +59,10 @@ Elyne Scheurwegs, <b>Madhumita Sushil</b>, Stéphan Tulkens, Walter Daelemans, K
 Journal of Biomedical Informatics, 2017 <br/>
 [bibtex](papers/bibtex/rdoc_jbi.bib) | [code](https://github.com/Elyne/rdocChallenge)
 
-#* [Integration of Safety and Smartness Using Cloud
-#Services- An insight to future](https://link.springer.com/chapter/10.1007%2F978-1-4614-3535-8_25) <br/>
-#Neha Tekriwal, <b>Madhumita</b>, P. Venkata Krishna <br/>
-#Part of Lecture Notes in Electrical Engineering, 2012
+[//]: #* [Integration of Safety and Smartness Using Cloud
+[//]: #Services- An insight to future](https://link.springer.com/chapter/10.1007%2F978-1-4614-3535-8_25) <br/>
+[//]: #Neha Tekriwal, <b>Madhumita</b>, P. Venkata Krishna <br/>
+[//]: #Part of Lecture Notes in Electrical Engineering, 2012
 
 # Mentoring
 * <b>MEng Capstone project, UC Berkeley, 2022-2023</b>: Breast cancer pathology extraction from pathology reports.
