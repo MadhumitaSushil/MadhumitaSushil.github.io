@@ -49,10 +49,10 @@ Workshop on *Health Text Mining and Information Analysis (LOUHI)*, EMNLP 2018 <b
 Journal of Biomedical Informatics, 2018 <br/>
 [bibtex](papers/bibtex/jbi_rep_learning.bib) | [code](https://github.com/clips/PatientRep) | [arXiv preprint](https://arxiv.org/abs/1807.01395)
 
-* [Unsupervised patient representations from clinical notes with interpretable classification decisions](https://arxiv.org/abs/1711.05198) <br/>
-<b>Madhumita Sushil</b>, Simon Šuster, Kim Luyckx, Walter Daelemans <br/>
-Workshop on *Machine Learning for Health*, NeurIPS 2017 <br/>
-[bibtex](papers/bibtex/patientrep_ml4h.bib) | [poster](posters/ml4h2017.pdf)
+<!--- * [Unsupervised patient representations from clinical notes with interpretable classification decisions](https://arxiv.org/abs/1711.05198) <br/> --->
+<!--- <b>Madhumita Sushil</b>, Simon Šuster, Kim Luyckx, Walter Daelemans <br/> --->
+<!--- Workshop on *Machine Learning for Health*, NeurIPS 2017 <br/> --->
+<!--- [bibtex](papers/bibtex/patientrep_ml4h.bib) | [poster](posters/ml4h2017.pdf) --->
 
 * [Counting trees in Random Forests: Predicting symptom severity in psychiatric intake reports](https://www.sciencedirect.com/science/article/pii/S1532046417301302) <br/>
 Elyne Scheurwegs, <b>Madhumita Sushil</b>, Stéphan Tulkens, Walter Daelemans, Kim Luyckx <br/>
