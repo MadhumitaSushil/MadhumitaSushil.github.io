@@ -28,11 +28,6 @@ bibtex
 *BioNLP* Workshop, NAACL 2021 <br/>
 [bibtex](papers/bibtex/bionlp21-1.bib) | [slides](talks/NAACL_knowledge_integration.pdf)
 
-* [Are we there yet? Exploring clinical domain knowledge of BERT models](https://aclanthology.org/2021.bionlp-1.5) <br/>
-<b>Madhumita Sushil</b>, Simon Šuster, Walter Daelemans <br/>
-*BioNLP* Workshop, NAACL 2021 <br/>
-[bibtex](papers/bibtex/bionlp21-1.bib) | [slides](talks/NAACL_knowledge_integration.pdf)
-
 * [Contextual explanation rules for neural clinical classifiers](https://aclanthology.org/2021.bionlp-1.22/) <br/>
 <b>Madhumita Sushil</b>, Simon Šuster, Walter Daelemans <br/>
 *BioNLP* Workshop, NAACL 2021 <br/>
