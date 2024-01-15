@@ -18,10 +18,10 @@ During my PhD, I have worked as a research intern at the Google Brain Applied te
 *Journal of Clinical Epidemiology*, 2024 <br/>
 bibtex
 
-* Topic modeling on clinical social work notes for exploring social determinants of health factors <br/>
-Shenghuan Sun, Travis Zack, <b>Madhumita Sushil\*</b>, Atul J. Butte\* <br/>
-*JAMIA Open*, 2023 <br/>
-bibtex
+* [Topic modeling on clinical social work notes for exploring social determinants of health factors](https://academic.oup.com/jamiaopen/article/7/1/ooad112/7536094) <br/>
+Shenghuan Sun, Travis Zack, Christopher Y. K. Williams, <b>Madhumita Sushil\*</b>, Atul J. Butte\* <br/>
+*JAMIA Open*, 2024 <br/>
+[bibtex](papers/bibtex/topicmodeling_jamiao.bibtex)
 
 * [Are we there yet? Exploring clinical domain knowledge of BERT models](https://aclanthology.org/2021.bionlp-1.5) <br/>
 <b>Madhumita Sushil</b>, Simon Šuster, Walter Daelemans <br/>
