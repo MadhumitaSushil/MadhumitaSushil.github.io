@@ -13,15 +13,15 @@ During my PhD, I have worked as a research intern at the Google Brain Applied te
 
 # Selected Publications
 
-* Cross-institution natural language processing for reliable clinical association studies: a methodological exploration <br/>
+* [Cross-institution natural language processing for reliable clinical association studies: a methodological exploration](https://doi.org/10.1016/j.jclinepi.2024.111258) <br/>
 <b>Madhumita Sushil</b>, Atul J. Butte, Ewoud Schuit, Maarten van Smeden, Artuur M. Leeuwenberg <br/>
 *Journal of Clinical Epidemiology*, 2024 <br/>
-bibtex
+[bibtex](papers/bibtex/JCE_SDOH_associations.bib)
 
-* Topic modeling on clinical social work notes for exploring social determinants of health factors <br/>
-Shenghuan Sun, Travis Zack, <b>Madhumita Sushil\*</b>, Atul J. Butte\* <br/>
-*JAMIA Open*, 2023 <br/>
-bibtex
+* [Topic modeling on clinical social work notes for exploring social determinants of health factors](https://academic.oup.com/jamiaopen/article/7/1/ooad112/7536094) <br/>
+Shenghuan Sun, Travis Zack, Christopher Y. K. Williams, <b>Madhumita Sushil\*</b>, Atul J. Butte\* <br/>
+*JAMIA Open*, 2024 <br/>
+[bibtex](papers/bibtex/topicmodeling_jamiao.bibtex)
 
 * [Are we there yet? Exploring clinical domain knowledge of BERT models](https://aclanthology.org/2021.bionlp-1.5) <br/>
 <b>Madhumita Sushil</b>, Simon Šuster, Walter Daelemans <br/>
