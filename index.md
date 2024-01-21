@@ -73,7 +73,7 @@ Journal of Biomedical Informatics, 2017 <br/>
   <br/> Mentee: Panagiotis Lantavos, Artistotle University of Thessaloniki
   
 # Service
-* <b>Reviewer/Program Committee Member: </b>Journal of Biomedical Informatics 2023; Biomedical Natural Language Processing (BioNLP) workshop at ACL 2022, 2023; BMC Medical Informatics 2021; 
+* <b>Reviewer/Program Committee Member: </b>Journal of American Medical Informatics Association 2024; Journal of Biomedical Informatics 2023; Biomedical Natural Language Processing (BioNLP) workshop at ACL 2022, 2023; BMC Medical Informatics 2021; 
 AMIA Informatics Summit ’23, AMIA Annual Symposium ’22, ’23; International Conference on Information Management and Big Data (SIMBig) ’21, ’23; Workshop on Machine Learning for Health at NeurIPS 2017, 2018, 2019; Student Research Workshop and Widening NLP Workshop at ACL 2019; American Medical Informatics Association 2022.
 * <b>Session chair: clinical NLP</b>; AMIA 2021
 * <b>Student Board</b>: EACL 2019&ndash;20.
