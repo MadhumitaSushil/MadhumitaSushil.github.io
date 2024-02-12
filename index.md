@@ -13,6 +13,11 @@ During my PhD, I have worked as a research intern at the Google Brain Applied te
 
 # Selected Publications
 
+* CORAL: expert-Curated medical Oncology Reports to Advance Language Model Inference <br/>
+<b>Madhumita Sushil</b>, Vanessa E. Kennedy<sup>#</sup>, Divneet Mandair<sup>#</sup>, Brenda Miao, Travis Zack<sup>\*</sup>, Atul J. Butte<sup>\*</sup> <br/>
+*New England Journal of Medicine (NEJM)-AI*, 2024 <br/>
+bibtex | [preprint](https://arxiv.org/abs/2308.03853) | [Dataset](https://physionet.org/content/curated-oncology-reports/1.0/)
+
 * [Cross-institution natural language processing for reliable clinical association studies: a methodological exploration](https://doi.org/10.1016/j.jclinepi.2024.111258) <br/>
 <b>Madhumita Sushil</b>, Atul J. Butte, Ewoud Schuit, Maarten van Smeden, Artuur M. Leeuwenberg <br/>
 *Journal of Clinical Epidemiology*, 2024 <br/>
@@ -73,8 +78,7 @@ Journal of Biomedical Informatics, 2017 <br/>
   <br/> Mentee: Panagiotis Lantavos, Artistotle University of Thessaloniki
   
 # Service
-* <b>Reviewer/Program Committee Member: </b>Journal of American Medical Informatics Association 2024; Journal of Biomedical Informatics 2023; Biomedical Natural Language Processing (BioNLP) workshop at ACL 2022, 2023; BMC Medical Informatics 2021; 
-AMIA Informatics Summit ’23, AMIA Annual Symposium ’22, ’23; International Conference on Information Management and Big Data (SIMBig) ’21, ’23; Workshop on Machine Learning for Health at NeurIPS 2017, 2018, 2019; Student Research Workshop and Widening NLP Workshop at ACL 2019; American Medical Informatics Association 2022.
+* <b>Reviewer/Program Committee Member: </b>Journal of American Medical Informatics Association 2024; Journal of Biomedical Informatics 2023; Biomedical Natural Language Processing (BioNLP) workshop at ACL 2022, 2023; BMC Medical Informatics 2021; AMIA Informatics Summit ’23, AMIA Annual Symposium ’22, ’23; International Conference on Information Management and Big Data (SIMBig) ’21, ’23; Workshop on Machine Learning for Health at NeurIPS 2017, 2018, 2019; Student Research Workshop and Widening NLP Workshop at ACL 2019.
 * <b>Session chair: clinical NLP</b>; AMIA 2021
 * <b>Student Board</b>: EACL 2019&ndash;20.
 * <b>Co-chair</b>: Student Research Workshop at EACL 2021.
