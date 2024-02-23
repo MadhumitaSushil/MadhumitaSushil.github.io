@@ -24,7 +24,7 @@ bibtex | [preprint](https://arxiv.org/abs/2308.03853) | [Dataset](https://physio
 [bibtex](papers/bibtex/JCE_SDOH_associations.bib)
 
 * Algorithmic identification of treatment-emergent adverse events from clinical notes using large language models: a pilot study in inflammatory bowel disease <br/>
-Anna L Silverman<sup>\*</sup>, <b>Madhumita Sushil<sup>\*</sup></b>, Balu Bhasuran<sup>\*</sup>, Dana Ludwig, James Buchanan, Rebecca Racz, Mahalakshmi Parakala, Samer El-Kamary, Ohenewaa Ahima, Artur Belov, Lauren Choi, Monisha Billings, Yan Li, Nadia Habal, Qi Liu, Jawahar Tiwari, Atul J. Butte, and Vivek A. Rudrapatna.
+Anna L Silverman<sup>\*</sup>, <b>Madhumita Sushil<sup>\*</sup></b>, Balu Bhasuran<sup>\*</sup>, Dana Ludwig, James Buchanan, Rebecca Racz, Mahalakshmi Parakala, Samer El-Kamary, Ohenewaa Ahima, Artur Belov, Lauren Choi, Monisha Billings, Yan Li, Nadia Habal, Qi Liu, Jawahar Tiwari, Atul J. Butte, and Vivek A. Rudrapatna. <br/>
 *Journal of Clinical Pharmacology and Therapeutics*, 2024. <br/>
 bibtex | [preprint](https://www.medrxiv.org/content/10.1101/2023.09.06.23295149v1)
 
