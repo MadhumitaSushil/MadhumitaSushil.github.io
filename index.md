@@ -13,7 +13,7 @@ During my PhD, I have worked as a research intern at the Google Brain Applied te
 
 # Selected Publications
 
-* [CORAL: expert-Curated medical Oncology Reports to Advance Language Model Inference](https://ai.nejm.org/doi/10.1056/AIdbp2300110) <br/>
+* [CORAL: Expert-Curated Oncology Reports to Advance Language Model Inference](https://ai.nejm.org/doi/10.1056/AIdbp2300110) <br/>
 <b>Madhumita Sushil</b>, Vanessa E. Kennedy<sup>#</sup>, Divneet Mandair<sup>#</sup>, Brenda Miao, Travis Zack<sup>\*</sup>, Atul J. Butte<sup>\*</sup> <br/>
 *New England Journal of Medicine (NEJM)-AI*, 2024 <br/>
 [bibtex](papers/bibtex/coral.bib) | [preprint](https://arxiv.org/abs/2308.03853) | [Dataset](https://physionet.org/content/curated-oncology-reports/1.0/)
