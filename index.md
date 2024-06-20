@@ -18,6 +18,11 @@ During my PhD, I have worked as a research intern at the Google Brain Applied te
 *New England Journal of Medicine (NEJM)-AI*, 2024 <br/>
 [bibtex](papers/bibtex/coral.bib) | [preprint](https://arxiv.org/abs/2308.03853) | [Dataset](https://physionet.org/content/curated-oncology-reports/1.0/)
 
+* [A comparative study of large language model-based zero-shot inference and task-specific supervised classification of breast cancer pathology reports](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocae146/7696538)
+<b>Madhumita Sushil<sup>\*</sup></b>, Travis Zack<sup>\*</sup>, Divneet Mandair<sup>\*</sup>, Zhiwei Zheng<sup>\#</sup>, Ahmed Wali<sup>\#</sup>, Yan-Ning Yu<sup>\#</sup>, Yuwei Quan<sup>\#</sup>, Dmytro Lituiev, Atul J. Butte
+*Journal of American Medical Informatics Association (JAMIA)*, 2024 <br/>
+[bibtex](papers/bibtex/jamia24-breastca-path.bibtex) | Dataset
+
 * [Cross-institution natural language processing for reliable clinical association studies: a methodological exploration](https://doi.org/10.1016/j.jclinepi.2024.111258) <br/>
 <b>Madhumita Sushil</b>, Atul J. Butte, Ewoud Schuit, Maarten van Smeden, Artuur M. Leeuwenberg <br/>
 *Journal of Clinical Epidemiology*, 2024 <br/>
